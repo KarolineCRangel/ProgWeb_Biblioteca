@@ -12,6 +12,7 @@ import java.util.Objects;
 public class Emprestimo implements Serializable{
     private static final long serialVersionUID = 1L;
     
+   
     private Long id;
 
     private Calendar dataHora;
